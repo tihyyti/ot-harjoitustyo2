@@ -3,7 +3,7 @@
 
 # Ohjelmistotekniikka, harjoitustyö
 
-Olen tekemässä Pythonilla interaktiivista **Erilaisten kiinnostavien lokaatioiden GIS-kartalle sijoittamista ja niiden annotointia, lokaation esitystapa kartalla määräytyy annotointitiedon pohjalta, lokaatiot muodostavat oman layerinsä GIS-kartalla**, Tässä tarvitaan 
-GIS-desktop-sovellus, joka käyttää PC:ssäni sijaitsevaa *lokaalia relaatiotietokantaa* tiedon hakuun, talletukseen ja päivitykseen.
+Olen tekemässä Pythonilla interaktiivista **erilaisten kiinnostavien lokaatioiden GIS-kartalle sijoittamista ja niiden koordinaattimuunnoksia sekä annotointia, lokaation esitystapa kartalla määräytyy annotointitiedon pohjalta (lokaatiotyypit ovat: POI, AOI, SOI, LOI), lokaatiot muodostavat oman layerinsä GIS-kartalla**, Tässä tarvitaan 
+GIS-desktop-sovellus, joka käyttää PC:ssäni sijaitsevaa *lokaalia PostgreSQL/PostGIS relaatiotietokantaa* tiedon relaatioiden käsittelyyn, hakuun, talletukseen ja päivitykseen.
 
 ## Linkit
