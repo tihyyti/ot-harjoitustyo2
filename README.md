@@ -3,6 +3,6 @@
 
 # Ohjelmistotekniikka, harjoitustyö
 
-Olen tekemässä Pythonilla interaktiivista **erilaisten kiinnostavien lokaatioiden GIS-kartalle sijoittamista ja niiden koordinaattimuunnoksia sekä annotointia, lokaation esitystapa kartalla määräytyy annotointitiedon pohjalta (lokaatiotyypit ovat: POI, AOI, SOI, LOI). Lokaatiot ja niiden väliset relaatiot muodostavat oman layerinsä GIS-kartalla**. Tässä tarvitaan lokaatioiden visualisointiin QGIS-desktop-sovellus ja siihen liittyvä, nyt tehtävä, uusi applikaatio, joka käyttää PC:ssäni sijaitsevaa *lokaalia PostgreSQL/PostGIS relaatiotietokantaa* tiedon relaatioiden käsittelyyn ja visualisointiin sekä tiedon hakuun, talletukseen ja päivitykseen.
+Olen tekemässä Pythonilla interaktiivista **erilaisten kiinnostavien lokaatioiden ja alueiden kartalle sijoittamista ja niiden annotointia metadatalla ja tutkimussuunnitelmatiedoilla.** Lokaation esitystapa kartalla määräytyy annotointitiedon pohjalta (lokaatiotyypit ovat: POI, AOI, SOI, LOI). Lokaatiot ja niiden väliset kytkennät muodostavat myös reittejä kartalla. Tässä tarvitaan lokaatioiden visualisointiin ja annotointiin nyt tehtävä uusi sovellus "Lokaatiot", joka käyttää relaatiotietokantaa tiedon hallinnassa.  
 
 ## Linkit
