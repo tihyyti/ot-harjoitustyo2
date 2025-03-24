@@ -7,4 +7,4 @@ Olen tekemässä Pythonilla interaktiivista **kiinnostavien lokaatioiden ja alue
 
 ## Linkit
 [laskarit/viikko1](https://github.com/tihyyti/ot-harjoitustyo2/tree/main/laskarit/viikko1.md)
-
+[laskarit/viikko1](https://github.com/tihyyti/ot-harjoitustyo2/tree/main/laskarit/viikko2.md)
