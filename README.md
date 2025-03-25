@@ -10,5 +10,5 @@ Olen tekemässä Pythonilla interaktiivista **kiinnostavien lokaatioiden (esim.a
 [laskarit/viikko2](https://github.com/tihyyti/ot-harjoitustyo2/tree/main/laskarit/viikko2.md)
 
 ## Systeemikuvaukset
-[Käyttöohjeet](https://github.com/tihyyti/ot-harjoitustyo2/tree/main/dokumentaatio/LBRP_v0.txt)
+[LBRP_v0](https://github.com/tihyyti/ot-harjoitustyo2/tree/main/dokumentaatio/LBRP_v0.txt)
 
