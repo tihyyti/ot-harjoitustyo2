@@ -79,32 +79,7 @@ Features: Draw sensor (POI) and sensor grid (GSI) and store locally
 Sensors: Assign sensors to features
 Sync: Preview or export layer files to disk or GeoServer
 
-5. Python Dependencies (Pyproject.toml via Poetry)
-[tool.poetry.dependencies]
-python = "^3.10"
-tk = "*"
-shapely = "*"
-geopandas = "*"
-pillow = "*"
-sqlite-utils = "*"
-requests = "*"
-pytest = "*"
-coverage = "*"
-
-6. Installation Guide (Linux)
-sudo apt update && sudo apt install python3-tk python3-pip python3-dev build-essential
-pip install poetry
-poetry install
-
-7. Running the App
-poetry run python src/main.py
-
-8. Test and Coverage
-poetry run pytest
-poetry run coverage run -m pytest
-poetry run coverage report -m
-
-9. Sample Data (SQL Insert)
+5. Sample Data (SQL Insert)
 
 INSERT INTO users (full_name, email, password, role) VALUES
 ('Dr. Carol Smith', 'coral@example.com', 'hashedpassword', 'principal_researcher'),
